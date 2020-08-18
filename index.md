@@ -16,11 +16,11 @@ Documentation for Torn City INFINITE DIMENSION Family Faction
 [View ID I](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [View ID II](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [View ID III](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
- [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
+[What is ID?](#What-is-ID){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
-## Getting started
+## What is ID
 
 ### Dependencies
 
